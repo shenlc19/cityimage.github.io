@@ -28,7 +28,7 @@ window.addEventListener('load', () => {
         }
     }
     //EventListeners
-    canvas.addEventListener("mousedown", startPosition);
-    canvas.addEventListener("mouseup", finishedPostion);
+    //canvas.addEventListener("mousedown", startPosition);
+    //canvas.addEventListener("mouseup", finishedPostion);
     canvas.addEventListener("mousemove", draw);
 });
